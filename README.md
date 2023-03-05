@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  Food Recipe
+  Workout Buddy
   <br>
 </h1>
 
 
-<h4 align="center">Food Recipe app built on top of <a href="https://flutter.dev/" target="_blank" style="color:##0276E8;">Flutter</a>.</h4>
+<h4 align="center">Workout Buddy app built on top of <a href="https://flutter.dev/" target="_blank" style="color:##0276E8;">Flutter</a>.</h4>
 
 
 ## Table of Contents
