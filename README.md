@@ -32,11 +32,11 @@
 
 
 ## About the project
-√ Warm-up and stretching routines
-√ Customize your workout
-√ Quick and effective workouts
-√ Beginner friendly
-√ Full body workout at home
+√ Warm-up and stretching routines  
+√ Customize your workout  
+√ Quick and effective workouts  
+√ Beginner friendly  
+√ Full body workout at home  
 
 ## Key Features
 
