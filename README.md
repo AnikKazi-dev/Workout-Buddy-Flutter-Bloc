@@ -33,13 +33,18 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+* **State management**: BloC, Cubit State Management, repository patterns.
+* Loading JSON Data
+* Storing JSON locally
+* Edit data and save in the storage
+* Edit any loaded data
+* Save edited data
+* Adding new data
+* Save settings
 
 ## Built With
 
@@ -48,8 +53,6 @@ This software uses the following packages:
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-
-
 
 
 ## Contact
