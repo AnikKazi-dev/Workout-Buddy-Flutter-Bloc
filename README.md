@@ -32,13 +32,6 @@
 
 
 ## About the project
-√ Warm-up and stretching routines  
-√ Customize your workout  
-√ Quick and effective workouts  
-√ Beginner friendly  
-√ Full body workout at home  
-
-## Key Features
 
 * **State management**: BloC, Cubit State Management, repository patterns.
 * Loading JSON Data
@@ -48,6 +41,15 @@
 * Save edited data
 * Adding new data
 * Save settings
+
+## Key Features
+
+√ Warm-up and stretching routines  
+√ Customize your workout  
+√ Quick and effective workouts  
+√ Beginner friendly  
+√ Full body workout at home  
+
 
 ## Built With
 
